@@ -80,15 +80,6 @@ Antigravity IDE – Autonomous execution environment
 
 Streamlit (planned) – Visualization & monitoring dashboard
 
-**Project Structure**
-automated-outreach/
-│
-├── agents/          # Autonomous agent definitions
-├── tasks/           # Agent task logic
-├── tools/           # External data & search tools
-├── config/          # Agent goals & task configs
-├── main.py          # System entry point
-└── README.md
 
 **Key Engineering Highlights**
 
@@ -133,5 +124,7 @@ Better Reach to various type of customers & communication to the experts.
 **About Me**
 
 Amritha Krishnakumar Joki
+
 AI / Autonomous Systems Engineer
+
 Focus Areas: Agentic AI, LLM Orchestration, Applied Automation
