@@ -1,5 +1,7 @@
 **AUTOMATED OUTREACH**
+
 *Autonomous AI Agents for Technical Lead Discovery & Personalized Outreach*
+
 **Project Overview**
 
 Automated Outreach is an end-to-end agentic AI system built to demonstrate my ability to design, orchestrate, and implement autonomous multi-agent workflows using modern LLM frameworks.
