@@ -1,6 +1,6 @@
-Automated Outreach
-Autonomous AI Agents for Technical Lead Discovery & Personalized Outreach
-Project Overview
+**AUTOMATED OUTREACH**
+*Autonomous AI Agents for Technical Lead Discovery & Personalized Outreach*
+**Project Overview**
 
 Automated Outreach is an end-to-end agentic AI system built to demonstrate my ability to design, orchestrate, and implement autonomous multi-agent workflows using modern LLM frameworks.
 
@@ -15,22 +15,22 @@ with minimal human intervention.
 
 This repository is part of my professional AI/ML portfolio and reflects production-oriented system design rather than a toy demo.
 
-What This Project Demonstrates
+**What This Project Demonstrates**
 
-Agentic system design using CrewAI
+-> Agentic system design using CrewAI
 
-Autonomous decision-making pipelines
+-> Autonomous decision-making pipelines
 
-Prompt engineering for personalization
+-> Prompt engineering for personalization
 
-Separation of concerns in multi-agent workflows
+-> Separation of concerns in multi-agent workflows
 
-Scalable architecture for real-world AI applications
+->Scalable architecture for real-world AI applications
 
-System Design (High Level)
-Agent Roles
+**System Design (High Level)
+Agent Roles**
 
-1. Technical Scout Agent
+**1. Technical Scout Agent**
 
 Searches public technical platforms (e.g., GitHub)
 
@@ -38,7 +38,7 @@ Identifies developers/teams based on activity and stack
 
 Extracts meaningful technical context (repos, tools, patterns)
 
-2. Outreach Intelligence Agent
+**2. Outreach Intelligence Agent**
 
 Interprets technical signals from Scout Agent
 
@@ -46,7 +46,7 @@ Applies reasoning to personalize messaging
 
 Generates outreach aligned to the lead’s technical background
 
-Orchestration Layer
+**Orchestration Layer**
 
 CrewAI manages agent coordination, task sequencing, and context sharing
 
@@ -54,7 +54,7 @@ Agents operate with clearly defined goals and constraints
 
 Deterministic execution with extensibility for future agents
 
-Architecture Philosophy
+**Architecture Philosophy**
 
 Modular – agents, tools, and tasks are loosely coupled
 
@@ -64,7 +64,7 @@ Extensible – new agents and tools can be added with minimal refactor
 
 Production-oriented – designed for scale, not just experimentation
 
-Technology Stack
+**Technology Stack**
 
 Python 3.10+
 
@@ -78,7 +78,7 @@ Antigravity IDE – Autonomous execution environment
 
 Streamlit (planned) – Visualization & monitoring dashboard
 
-Project Structure
+**Project Structure**
 automated-outreach/
 │
 ├── agents/          # Autonomous agent definitions
@@ -88,7 +88,7 @@ automated-outreach/
 ├── main.py          # System entry point
 └── README.md
 
-Key Engineering Highlights
+**Key Engineering Highlights**
 
 Designed agent roles using goal-oriented prompting
 
@@ -100,19 +100,19 @@ Prioritized clarity and maintainability over hard-coded logic
 
 Designed system to be dashboard-ready and CRM-integrable
 
-Example Use Cases
+**Example Use Cases**
 
-Technical sales automation
+-Technical sales automation
 
-Developer evangelism
+-Developer evangelism
 
-Recruiting & talent sourcing
+-Recruiting & talent sourcing
 
-Startup outbound strategy
+-Startup outbound strategy
 
-Open-source community engagement
+-Open-source community engagement
 
-Future Scope
+**Future Scope**
 
 Lead scoring & ranking agent
 
@@ -124,19 +124,11 @@ Multi-language outreach generation
 
 Full dashboard with execution trace visualization
 
-Why This Project Matters
+Better Reach to various type of customers & communication to the experts.
 
-This project reflects my ability to:
 
-Think in systems, not scripts
 
-Build autonomous AI workflows
-
-Apply LLMs beyond simple chat interfaces
-
-Engineer solutions aligned with real business problems
-
-About Me
+**About Me**
 
 Amritha Krishnakumar Joki
 AI / Autonomous Systems Engineer
